@@ -1,4 +1,4 @@
-# jianzhiOffer
+# 剑指Offer
 
 | # | Title | python | Attention | Date |
 |---| ----- | -------- | ---------- | ---------- |
@@ -12,3 +12,10 @@
 |11|跳台阶|[python3](./code/.py)|同斐波那契数列|2019/3/23
 |12|变态跳台阶|[python3](./code/jumpFloorII.py)|动态规划|2019/3/23
 |13|矩形覆盖|[python3](./code/rectCover.py)|动态规划|2019/3/23
+|14||[python3](./code/.py)||2019/3/25
+|15||[python3](./code/.py)||2019/3/25
+|16||[python3](./code/.py)||2019/3/25
+|17||[python3](./code/.py)||2019/3/25
+|18||[python3](./code/.py)||2019/3/25
+|19||[python3](./code/.py)||2019/3/25
+|2||[python3](./code/.py)||2019/3/25
