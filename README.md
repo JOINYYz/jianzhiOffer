@@ -14,10 +14,10 @@
 |13|矩形覆盖|[python3](./code/rectCover.py)|动态规划|2019/3/23
 |14|二进制中1的个数|[python3](./code/.py)||2019/3/2？
 |15|数值的整数次方|[python3](./code/Power.py)|考虑指数正负、递归O(logn)|2019/3/25
-|16|调整数组顺序使奇数在偶数前面|[python3](./code/.py)||2019/3/25
-|17|链表中倒数第K个结点|[python3](./code/.py)||2019/3/25
-|18|反转链表|[python3](./code/.py)||2019/3/25
-|19|合并两个排序的列表|[python3](./code/.py)||2019/3/25
+|16|调整数组顺序使奇数在偶数前面|[python3](./code/reOrderArray.py)|用位与计算代替求余|2019/3/25
+|17|链表中倒数第K个结点|[python3](./code/FindKthToTail.py)|两个指针实现遍历一次、代码鲁棒性|2019/3/25
+|18|反转链表|[python3](./code/ReverseList.py)|三个指针实现链表元素反转|2019/3/25
+|19|合并两个排序的列表|[python3](./code/Merge.py)|（非递归）用新链存储合并后的、递归|2019/3/25
 |20|树的子结构|[python3](./code/.py)||2019/3/2
 |2||[python3](./code/.py)||2019/3/2
 |2||[python3](./code/.py)||2019/3/2
