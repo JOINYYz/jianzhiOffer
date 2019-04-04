@@ -24,7 +24,7 @@
 |23|包含min函数的栈|[python3](./code/minstack.py)|用辅助栈记录每次的最小值|2019/4/3
 |24|栈的压入、弹出序列|[python3](./code/IsPopOrder.py)|辅助栈记录压入值|2019/4/3
 |25|从上往下打印二叉树|[python3](./code/PrintFromTopToBottom.py)|队列实现层次遍历、注意空树和空子节点情况|2019/4/3
-|26|二叉搜索树的后序遍历序列|[python3](./code/.py)||2019/4/2
+|26|二叉搜索树的后序遍历序列|[python3](./code/VerifySquenceOfBST.py)|二叉搜索左树比根小/右树比根大|2019/4/4
 |27|二叉树中和为某一值的路径|[python3](./code/.py)||2019/4/2
 |28|复杂链表的复制|[python3](./code/.py)||2019/4/2
 |29|二叉搜索树与双向链表|[python3](./code/.py)||2019/4/2
