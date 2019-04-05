@@ -28,9 +28,9 @@
 |27|二叉树中和为某一值的路径|[python3](./code/.py)||2019/4/?
 |28|复杂链表的复制|[python3](./code/Clone.py)|分解复杂问题、链表指针设计|2019/4/4
 |29|二叉搜索树与双向链表|[python3](./code/Convert.py)|递归中序遍历、链表指针设计|2019/4/5
-|30|字符串的排列|[python3](./code/Permutation.py)||2019/4/5
+|30|字符串的排列|[python3](./code/Permutation.py)|将字符串分成两部分，未固定部分递归|2019/4/5
 |31|数组中出现次数超过一半的数字|[python3](./code/MoreThanHalfNum_Solution.py)|字典计数、遍历key/values|2019/4/5
-|32|最小的K个数|[python3](./code/.py)||2019/4/
+|32|最小的K个数|[python3](./code/GetLeastNumbers_Solution.py)|、特殊情况|2019/4/5
 |33|连续子数组的最大和|[python3](./code/.py)||2019/4/
 |34|从1~n整数中1出现的次数|[python3](./code/.py)||2019/4/
 |35|把数组排成最小的数|[python3](./code/.py)||2019/4/
