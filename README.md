@@ -31,7 +31,7 @@
 |30|字符串的排列|[python3](./code/Permutation.py)|将字符串分成两部分，未固定部分递归|2019/4/5
 |31|数组中出现次数超过一半的数字|[python3](./code/MoreThanHalfNum_Solution.py)|字典计数、遍历key/values|2019/4/5
 |32|最小的K个数|[python3](./code/GetLeastNumbers_Solution.py)|、特殊情况|2019/4/5
-|33|连续子数组的最大和|[python3](./code/.py)||2019/4/
+|33|连续子数组的最大和|[python3](./code/FindGreatestSumOfSubArray.py)|动态规划|2019/4/
 |34|从1~n整数中1出现的次数|[python3](./code/.py)||2019/4/
 |35|把数组排成最小的数|[python3](./code/.py)||2019/4/
 |36|丑数|[python3](./code/.py)||2019/4/
