@@ -38,4 +38,14 @@
 |37|第一个只出现一次的字符位置|[python3](./code/FirstNotRepeatingChar.py)|hash计数、find函数|2019/4/6
 |38|数组中的逆序对|[python3](./code/.py)||2019/4/
 |39|两个链表的第一个公共结点|[python3](./code/.py)||2019/4/
-|4||[python3](./code/.py)||2019/4/
+|4|数字在排序数组中出现的次数|[python3](./code/.py)||2019/4/
+|4|二叉树的深度|[python3](./code/.py)||2019/4/
+|4|平衡二叉树|[python3](./code/.py)||2019/4/
+|4|数组中只出现一次的数字|[python3](./code/.py)||2019/4/
+|4|和为S的连续正数序列|[python3](./code/.py)||2019/4/
+|4|和为S的两个数字|[python3](./code/.py)||2019/4/
+|4|左旋转字符串|[python3](./code/.py)||2019/4/
+|4|翻转单词顺序列|[python3](./code/.py)||2019/4/
+|4|扑克牌顺子|[python3](./code/.py)||2019/4/
+|4|圆圈中最后剩下的数|[python3](./code/.py)||2019/4/
+|5||[python3](./code/.py)||2019/4/
