@@ -31,11 +31,11 @@
 |30|字符串的排列|[python3](./code/Permutation.py)|将字符串分成两部分，未固定部分递归|2019/4/5
 |31|数组中出现次数超过一半的数字|[python3](./code/MoreThanHalfNum_Solution.py)|字典计数、遍历key/values|2019/4/5
 |32|最小的K个数|[python3](./code/GetLeastNumbers_Solution.py)|、特殊情况|2019/4/5
-|33|连续子数组的最大和|[python3](./code/FindGreatestSumOfSubArray.py)|动态规划|2019/4/
+|33|连续子数组的最大和|[python3](./code/FindGreatestSumOfSubArray.py)|动态规划|2019/4/6
 |34|从1~n整数中1出现的次数|[python3](./code/.py)||2019/4/
 |35|把数组排成最小的数|[python3](./code/.py)||2019/4/
 |36|丑数|[python3](./code/.py)||2019/4/
-|37|第一个只出现一次的字符位置|[python3](./code/.py)||2019/4/
+|37|第一个只出现一次的字符位置|[python3](./code/FirstNotRepeatingChar.py)|hash计数、find函数|2019/4/6
 |38|数组中的逆序对|[python3](./code/.py)||2019/4/
 |39|两个链表的第一个公共结点|[python3](./code/.py)||2019/4/
 |4||[python3](./code/.py)||2019/4/
