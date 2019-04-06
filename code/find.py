@@ -4,7 +4,7 @@ class Solution:
         # write code here
         row_N = len(array)       
         col = len(array[0]) - 1
-        if (row_N > 0 and col > 1):           # 至少要有一行和一列，才能进行循环
+        if (row_N > 0 and col > 0):           # 至少要有一行和一列，才能进行循环
             row = 0
             while (row < row_N and col >= 0): # 遍历完所有行和列的时候终止循环
                 if array[row][col] > target:
