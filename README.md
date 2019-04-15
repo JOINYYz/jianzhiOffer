@@ -1,6 +1,6 @@
 # 剑指Offer
 
-| # | Title | python | Attention | Date |
+| # | Title | python | Attention | Date |运行时间|占用内存|
 |---| ----- | -------- | ---------- | ---------- |
 |4|二维数组中的查找|[python3](./code/find.py)|判断条件、下标溢出|2019/3/17
 |5|替换空格|[python3](./code/replaceSpace.py)|split、join|2019/3/17
@@ -38,7 +38,8 @@
 |37|第一个只出现一次的字符位置|[python3](./code/FirstNotRepeatingChar.py)|hash计数、find函数|2019/4/6
 |38|数组中的逆序对|[python3](./code/.py)||2019/4/
 |39|两个链表的第一个公共结点|[python3](./code/.py)||2019/4/
-|4|数字在排序数组中出现的次数|[python3](./code/.py)||2019/4/
+|40|数字在排序数组中出现的次数|[python3](./code/GetNumberOfK.py)|二分+指针|2019/4/15|24ms|5732k
+|40|数字在排序数组中出现的次数|[python3](./code/GetNumberOfK2.py)|二分|2019/4/15|21ms|5624k
 |4|二叉树的深度|[python3](./code/.py)||2019/4/
 |4|平衡二叉树|[python3](./code/.py)||2019/4/
 |4|数组中只出现一次的数字|[python3](./code/.py)||2019/4/
