@@ -1,7 +1,7 @@
 # 剑指Offer
 
-| # | Title | python | Attention | Date |运行时间|占用内存|
-|---| ----- | -------- | ---------- | ---------- |
+| # | Title | python | Attention | Date | 运行时间 | 占用内存 |
+|---| ----- | -------- | ---------- | ---------- | -------- | -------- |
 |4|二维数组中的查找|[python3](./code/find.py)|判断条件、下标溢出|2019/3/17
 |5|替换空格|[python3](./code/replaceSpace.py)|split、join|2019/3/17
 |6|从尾到头打印链表|[python3](./code/printListFromTailToHead.py)|头尾下标的关系、栈|2019/3/17
