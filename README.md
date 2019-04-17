@@ -20,6 +20,7 @@
 |19|合并两个排序的列表|[python3](./code/Merge.py)|（非递归）用新链存储合并后的、递归|2019/3/25
 |20|树的子结构|[python3](./code/.py)||2019/3/2？
 |21|二叉树的镜像|[python3](./code/Mirror.py)|活用先根遍历|2019/3/30
+|21|二叉树的镜像|[python3](./code/Mirror2.py)|递归|2019/4/17|24ms|5740k
 |22|顺时针打印矩阵|[python3](./code/.py)||2019/3/2？
 |23|包含min函数的栈|[python3](./code/minstack.py)|用辅助栈记录每次的最小值|2019/4/3
 |24|栈的压入、弹出序列|[python3](./code/IsPopOrder.py)|辅助栈记录压入值|2019/4/3
@@ -41,6 +42,7 @@
 |40|数字在排序数组中出现的次数|[python3](./code/GetNumberOfK.py)|二分+指针|2019/4/15|24ms|5732k
 |40|数字在排序数组中出现的次数|[python3](./code/GetNumberOfK2.py)|二分|2019/4/15|21ms|5624k
 |41|二叉树的深度|[python3](./code/TreeDepth.py)|活用遍历|2019/4/15|22ms|5724k
+|41|二叉树的深度|[python3](./code/TreeDepth2.py)|递归|2019/4/17|25ms|5736k
 |42|平衡二叉树|[python3](./code/.py)||2019/4/
 |43|数组中只出现一次的数字|[python3](./code/.py)||2019/4/
 |44|和为S的连续正数序列|[python3](./code/.py)||2019/4/
