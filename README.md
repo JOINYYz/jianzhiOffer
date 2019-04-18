@@ -43,8 +43,8 @@
 |40|数字在排序数组中出现的次数|[python3](./code/GetNumberOfK2.py)|二分|2019/4/15|21ms|5624k
 |41|二叉树的深度|[python3](./code/TreeDepth.py)|活用遍历|2019/4/15|22ms|5724k
 |41|二叉树的深度|[python3](./code/TreeDepth2.py)|递归|2019/4/17|25ms|5736k
-|42|平衡二叉树|[python3](./code/IsBalanced_Solution.py)|递归、活用二叉树深度|2019/4/18
-|43|数组中只出现一次的数字|[python3](./code/.py)||2019/4/
+|42|平衡二叉树|[python3](./code/IsBalanced_Solution.py)|活用二叉树深度、flag|2019/4/18
+|43|数组中只出现一次的数字|[python3](./code/FindNumsAppearOnce.py)|位异或、找二进制数低位1位置|2019/4/18
 |44|和为S的连续正数序列|[python3](./code/.py)||2019/4/
 |45|和为S的两个数字|[python3](./code/.py)||2019/4/
 |46|左旋转字符串|[python3](./code/.py)||2019/4/
