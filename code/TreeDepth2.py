@@ -11,5 +11,5 @@ class Solution:
             return 0
         left = self.TreeDepth(pRoot.left)
         right = self.TreeDepth(pRoot.right)
-        return left+1 if left>right else right+1
+        return max(left,right)+1
     
