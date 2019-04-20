@@ -45,8 +45,8 @@
 |41|二叉树的深度|[python3](./code/TreeDepth2.py)|递归|2019/4/17|25ms|5736k
 |42|平衡二叉树|[python3](./code/IsBalanced_Solution.py)|活用二叉树深度、flag|2019/4/18
 |43|数组中只出现一次的数字|[python3](./code/FindNumsAppearOnce.py)|位异或、找二进制数低位1位置|2019/4/18
-|44|和为S的连续正数序列|[python3](./code/.py)||2019/4/
-|45|和为S的两个数字|[python3](./code/.py)||2019/4/
+|44|和为S的连续正数序列|[python3](./code/FindContinuousSequence.py)|活用指针|2019/4/20
+|45|和为S的两个数字|[python3](./code/FindNumsAppearOnce.py)|活用指针|2019/4/19
 |46|左旋转字符串|[python3](./code/.py)||2019/4/
 |47|翻转单词顺序列|[python3](./code/.py)||2019/4/
 |48|扑克牌顺子|[python3](./code/.py)||2019/4/
