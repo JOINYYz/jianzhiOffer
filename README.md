@@ -47,8 +47,8 @@
 |43|数组中只出现一次的数字|[python3](./code/FindNumsAppearOnce.py)|位异或、找二进制数低位1位置|2019/4/18
 |44|和为S的连续正数序列|[python3](./code/FindContinuousSequence.py)|活用指针|2019/4/20
 |45|和为S的两个数字|[python3](./code/FindNumbersWithSum.py)|活用指针|2019/4/19
-|46|左旋转字符串|[python3](./code/.py)||2019/4/
-|47|翻转单词顺序列|[python3](./code/.py)||2019/4/
+|46|左旋转字符串|[python3](./code/LeftRotateString.py)|翻转|2019/4/22
+|47|翻转单词顺序列|[python3](./code/ReverseSentence.py)|头尾指针、list[::-1]切片|2019/4/22
 |48|扑克牌顺子|[python3](./code/.py)||2019/4/
 |49|圆圈中最后剩下的数|[python3](./code/.py)||2019/4/
 |5||[python3](./code/.py)||2019/4/
