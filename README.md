@@ -53,7 +53,7 @@
 |49|圆圈中最后剩下的数|[python3](./code/.py)||2019/4/
 |50|求1+2+3+...+n|[python3](./code/Sum_Solution.py)||2019/4/22
 |51|不用加减乘除做加法|[python3](./code/.py)||2019/4/
-|52|把字符串转换成整数|[python3](./code/.py)||2019/4/
+|52|把字符串转换成整数|[python3](./code/StrToInt.py)|符号、空格、ascii码|2019/4/23
 |53|数组中重复的数字|[python3](./code/.py)||2019/4/
 |54|构建乘积数组|[python3](./code/.py)||2019/4/
 |55|正则表达式匹配|[python3](./code/.py)||2019/4/
